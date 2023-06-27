@@ -1,2 +1,2 @@
 # project-spider
-Create comfortable and good working HTTP desktop client
+Create relevant, user-freindly and functional HTTP desktop client
